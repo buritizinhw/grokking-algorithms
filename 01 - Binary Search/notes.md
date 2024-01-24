@@ -51,4 +51,4 @@
                         |  |    
                         i. f.    
     Assim, encontramos o elemento 7 na posição 6 do array.  
-```
+
