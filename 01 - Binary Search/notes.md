@@ -28,6 +28,6 @@
 
     - O elemento do meio(5) será comparado com o elemento que estamos buscando(7). Como não é o elemento que queremos, comparamos se o meio é maior ou menor que o numero que queremos. Como **5 < 7**, atualizamos os apontadores, o novo inicio da lista será a posição do **meio + 1** (já que o elemento do meio ja foi comparado), o apontador do final pernacerá o mesmo e o meio irá para o novo meio(inicio+fim)//2.
 <strike> 
-    [1, 2, 3, 4, 5,</strike> 6, 7, 8, 9, 10] 
+    [1, 2, 3, 4, 5,</strike> 6, 7, 8, 9, 10]   
                     |     |      |   
                     ini. meio    fim  
