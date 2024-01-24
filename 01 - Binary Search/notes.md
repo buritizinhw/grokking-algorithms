@@ -25,7 +25,8 @@
 ```
    
 
-    Eu, particularmente, gosto de estudar com os conceitos de apontadores. Basicamente, nesse algoritmo vamos trabalhar com o apontador inicio, meio e fim.
+    Eu, particularmente, gosto de estudar com os conceitos de apontadores. 
+    Basicamente, nesse algoritmo vamos trabalhar com o apontador inicio, meio e fim.
 
     Vamos imaginar o seguinte array com 11 elementos, vamos buscar o número 7: 
     [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]   
