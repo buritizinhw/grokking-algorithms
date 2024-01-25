@@ -54,5 +54,9 @@
     Assim, encontramos o elemento 7 na posição 6 do array.  
 
 
-![Busca Binária](01%20-%20Binary%20Search/binary-search-sequence-search.gif)
+
+<p align="center">
+  <img src="binary-search-sequence-search.gif" alt="Busca Binária">
+</p>
+
 
