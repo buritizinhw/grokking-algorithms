@@ -7,7 +7,7 @@
 </p>
 
 ```
-    Princípio de Funcionamento:
+Princípio de Funcionamento:
 
     1.Ordenação:
         A lista deve estar ordenada em ordem crescente ou decrescente.
