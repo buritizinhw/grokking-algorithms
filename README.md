@@ -5,4 +5,4 @@ Grokking Algorithms is a disarming take on a core computer science topic and sho
 - [Binary Search](https://github.com/buritizinhw/grokking-algorithms/tree/main/01%20-%20Binary%20Search)
 - [Selection Sort](https://github.com/buritizinhw/grokking-algorithms/tree/main/02%20-%20Selection%20Sort)
 - [Recursion](https://github.com/buritizinhw/grokking-algorithms/tree/main/03%20-%20Recursion)
-
+- [QuickSort]
