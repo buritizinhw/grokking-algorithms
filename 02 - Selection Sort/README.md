@@ -1,5 +1,4 @@
 # Selection Sort
-    > Observação: A busca binária só funciona em uma lista previamente ordenada.
 <p>
     O Selection Sort é um algoritmo de ordenação simples e intuitivo que consiste em dividir a lista de elementos em duas partes: uma parte ordenada e uma parte não ordenada. Ele percorre repetidamente a parte não ordenada, encontra o menor (ou maior, dependendo da ordem desejada) elemento e o move para o final da parte ordenada.
 </p>
